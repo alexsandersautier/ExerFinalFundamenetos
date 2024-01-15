@@ -1,0 +1,1 @@
+This project was created in the last exercise on curse Python POO
